@@ -1,1 +1,12 @@
-{"connectors": []}
+{
+  "connectors": [
+    {
+      "id": "alexia-classroom",
+      "name": "Alexia Classroom",
+      "version": "0.1.0",
+      "bundleUrl": "https://github.com/Faltasmas/faltasmas-connector-alexia/releases/download/v0.1.0/connector.js",
+      "sha256": "6fb0755a5102a0b98ac86b251b968871f94137395d36ee0f51beeeab92851407",
+      "institutionCount": 1
+    }
+  ]
+}
